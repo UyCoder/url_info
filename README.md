@@ -10,12 +10,14 @@ Welcome to the IP and Whois Info Tool! This is a simple Java Swing application t
 ## Screenshots of the Application 🖥️
 ![0](https://user-images.githubusercontent.com/50663127/209004601-e6c103b5-8b73-4f44-b718-9bd192ca4973.png)
 <details>      
-<summary><strong>Show more</strong></summary>    
+<summary><strong>Show more</strong></summary>
+        
 ![1](https://user-images.githubusercontent.com/50663127/209004618-c712f330-029f-4959-b4ac-ab8729a62517.png)
 ![2](https://user-images.githubusercontent.com/50663127/209004626-f4daf500-dea7-4481-b87c-ff8aa5d870b5.png)
 ![3](https://user-images.githubusercontent.com/50663127/209004630-b81e5651-ce20-43bb-a371-21edd75fa02a.png)
 ![4](https://user-images.githubusercontent.com/50663127/209004655-5b2c3d27-6047-43c4-97f3-11e4815b9e2d.png)
 
+        
 </details>
 
 
