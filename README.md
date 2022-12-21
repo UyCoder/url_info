@@ -1,13 +1,13 @@
 # IP and Whois Info Tool 💻
 Welcome to the IP and Whois Info Tool! This is a simple Java Swing application that allows you to get various information about a given URL. With this tool, you can easily retrieve IP address, country, city, ISP, and geolocation of an IP 🌍, Whois information for a URL 🔍, opened ports of a URL 🔒, and ping a URL to check its reachability 🔌.
 
-## Features
+## Features 📋
 1. Get IP address, country, city, ISP, and geolocation of an IP: Just enter a URL and click the "IP Infos" button to get all the IP information for that URL.
 2. Get Whois information for a URL: Simply enter a URL and click the "Whois Infos" button to get the Whois information for that URL.
 3. Scan ports and show opened ports of a URL: Enter a URL and click the "Port Scanner" button to scan the ports of that URL and show the opened ports.
 4. Ping a URL and show if it is reachable or not: Enter a URL and click the "Ping" button to check the reachability of the URL.
 
-## Screenshots of the Application
+## Screenshots of the Application 🖥️
 
 <details>
 <summary><strong>Show more</strong></summary>
@@ -16,15 +16,15 @@ Welcome to the IP and Whois Info Tool! This is a simple Java Swing application t
 
 
 
-## Requirements
+## Requirements 📝
 - Java 8 or higher: Make sure you have Java 8 or a higher version installed on your system.
-## Installation
+## Installation 🛠️
 1. Clone the repository:
 ```
 git clone https://github.com/YOUR_USERNAME/ip-and-whois-info-tool.git
 ```
 2. Open the project in your preferred Java IDE.
-## Usage
+## Usage 🧑‍
 #### Method 1
 - Run the exe file named `UrlInfo.exe`
 * I used [Jsmooth](https://jsmooth.sourceforge.net/index.php) tool to generate exe file from jar file.
@@ -38,7 +38,7 @@ java -jar ExecutableFile.jar
 1. Run the Main class.
 2. Enter a URL in the text field and click the desired button to get the corresponding information.
 
-## Technologies 
+## Technologies 🖥️
 - Java 8
 - Maven
 - JSONObject
@@ -49,7 +49,7 @@ java -jar ExecutableFile.jar
 - Jsmooth
 
 
-## Dependencies
+## Dependencies 📦
 
 <details>
 <summary><strong>Show more</strong></summary>
@@ -94,7 +94,8 @@ java -jar ExecutableFile.jar
 </details>
 
 
-## Credits
+## Credits 🙌
+This project was developed by [Ahmed Bughra 🧑‍💼 ](https://www.linkedin.com/in/ahmed-bughra/).
 ChatGPT was used during the development to shorten the development time.
-## Disclaimer
+## Disclaimer 💬
 This application is not meant to be a professional tool and is only intended to help me improve my Java knowledge. Use it at your own risk. 😉
