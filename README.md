@@ -1,5 +1,7 @@
-# IP and Whois Info Tool 💻
-Welcome to the IP and Whois Info Tool! This is a simple Java Swing application that allows you to get various information about a given URL. With this tool, you can easily retrieve IP address, country, city, ISP, and geolocation of an IP 🌍, Whois information for a URL 🔍, opened ports of a URL 🔒, and ping a URL to check its reachability 🔌.
+# UrlInfo Tool 💻
+This is a simple Java Swing application that allows you to get various information about a given URL. With this tool, you can easily retrieve IP address, country, city, ISP, and geolocation of an IP 🌍, Whois information for a URL 🔍, opened ports of a URL 🔒, and ping a URL to check its reachability 🔌. 
+This may not be a very usefull application, But that's okay! Every project is an opportunity to learn and grow 🌱, and I'm proud of the progress I've made so far 💪.
+The secret 🤫 I need to tell you is, ChatGPT helped me to solve some problems during this project 💻. 
 
 ## Features 📋
 1. Get IP address, country, city, ISP, and geolocation of an IP: Just enter a URL and click the "IP Infos" button to get all the IP information for that URL.
